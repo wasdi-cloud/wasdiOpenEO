@@ -1,0 +1,6 @@
+openeo-pg-parser-networkx
+rasterio
+xarray
+netCDF4
+rioxarray
+dask

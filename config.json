@@ -1,0 +1,7 @@
+{
+  "USER": "[WASDI_USER]",
+  "PASSWORD": "[WASDI_PASSWORD]",
+  "WORKSPACE": "[WORKSPACE_NAME]",
+  "PARAMETERSFILEPATH": "./params.json",
+  "BASEURL": "https://www.wasdi.net/wasdiwebserver/rest"
+}
